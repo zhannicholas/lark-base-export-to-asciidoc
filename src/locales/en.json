@@ -1,0 +1,18 @@
+{
+  "exportVisibleBtnTxt": "Export current page",
+  "exportSelectedBtnTxt": "Select the section to export",
+  "errorMsgExportFailed": "Export Failed",
+  "initializingText": "Loading...",
+  "errorMsgGetSelectionFailed": "Fetch table failed",
+  "copyBtnTxt": "Copy",
+  "copiedMsg": "Copied to Clipboard",
+  "successMsgCopied": "Copied to Clipboard",
+  "downloadBtnTxt": "Download",
+  "clearContentBtnTxt": "Clear",
+  "errorMsgDownloadFailed": "Download Failed",
+  "exportingText": "Exporting: ",
+  "totalTimeTxt": "Total Time: ",
+  "totalTimeUnitTxt": "s",
+  "selectFieldsTxt": "Select Fields",
+  "selectAllTxt": "Select All"
+}

@@ -1,0 +1,17 @@
+{
+  "exportVisibleBtnTxt": "导出当前页",
+  "exportSelectedBtnTxt": "选择要导出的部分",
+  "errorMsgExportFailed": "导出失败",
+  "initializingText": "正在加载...",
+  "errorMsgGetSelectionFailed": "获取表格信息失败",
+  "copyBtnTxt": "复制",
+  "successMsgCopied": "已复制剪贴板",
+  "downloadBtnTxt": "下载",
+  "clearContentBtnTxt": "清除",
+  "errorMsgDownloadFailed": "下载失败",
+  "exportingText": "正在导出：",
+  "totalTimeTxt": "总耗时：",
+  "totalTimeUnitTxt": "秒",
+  "selectFieldsTxt": "字段选择",
+  "selectAllTxt": "全选"
+}
