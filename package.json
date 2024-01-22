@@ -1,8 +1,8 @@
 {
-  "name": "react-emplate",
+  "name": "lark-base-export-to-asciidoc",
   "version": "1.0.0",
   "type": "module",
-  "description": "React TypeScript on Replit, using Vite bundler",
+  "description": "Lark Base Export to AsciiDoc Help you transform your table into AsciiDoc format",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
