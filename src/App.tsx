@@ -185,7 +185,8 @@ export default function AsciiDocExporter() {
             const blob = new Blob([asciiDoc], {type: "text/plain"});
             const downloadLink = document.createElement("a");
             downloadLink.href = URL.createObjectURL(blob);
-            downloadLink.download = `${activeTable.current?.getName()}-${Date.now()}.asciidoc`;
+            const tableName = await activeTable.current?.getName();
+            downloadLink.download = `${tableName}-${Date.now()}.asciidoc`;
             document.body.appendChild(downloadLink);
             downloadLink.click();
             document.body.removeChild(downloadLink);
